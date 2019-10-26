@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.852
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24.10_funktsioonid_massiivid", "24.10_funktsioonid_massiivid\24.10_funktsioonid_massiivid.csproj", "{40327738-1732-4F90-A199-5645B08A4CA0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "massiivid", "massiivid\massiivid.csproj", "{07E908E3-78CE-4741-A01F-8AA416A0177A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "string_massiiv", "string_massiiv\string_massiiv.csproj", "{616F7CA3-65E0-42F8-AAD6-96969545B54F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{40327738-1732-4F90-A199-5645B08A4CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40327738-1732-4F90-A199-5645B08A4CA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40327738-1732-4F90-A199-5645B08A4CA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07E908E3-78CE-4741-A01F-8AA416A0177A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07E908E3-78CE-4741-A01F-8AA416A0177A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07E908E3-78CE-4741-A01F-8AA416A0177A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07E908E3-78CE-4741-A01F-8AA416A0177A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{616F7CA3-65E0-42F8-AAD6-96969545B54F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{616F7CA3-65E0-42F8-AAD6-96969545B54F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{616F7CA3-65E0-42F8-AAD6-96969545B54F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{616F7CA3-65E0-42F8-AAD6-96969545B54F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
